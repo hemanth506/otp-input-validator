@@ -39,7 +39,7 @@ input {
 }
 
 input:focus {
-  border-bottom: 1px solid orange;
+  border-bottom: 1px solid rgb(14, 168, 73);
   outline: none;
 }
 
@@ -62,7 +62,7 @@ input::-webkit-inner-spin-button {
   border: 1px solid darkgrey;
   border-radius: 5px;
   cursor: pointer;
-  background-color: tomato;
+  background-color: rgb(50, 221, 115);
   font-size: 15px;
   font-weight: 500;
 }
